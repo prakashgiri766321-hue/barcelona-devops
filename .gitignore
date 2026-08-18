@@ -2,3 +2,4 @@ database-password.txt
 backup/
 logs/
 secret.txt
+revision/secret.txt
